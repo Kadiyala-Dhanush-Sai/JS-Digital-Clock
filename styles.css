@@ -1,0 +1,32 @@
+body{
+    background-image: linear-gradient(to left,blue,violet);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hr,.min,.sec{
+    display: flex;
+    background-color: white;
+    border-radius: 10%;
+    padding: 6%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 277%;
+}
+
+.container{
+    width: 100%;
+    display: flex;
+    gap: 20px;
+    justify-content: center;    
+    align-items: center;
+    text-align: center;
+    margin-top: 15%;
+    margin-left: 2%;
+}
+.qot{
+    font-size: 82px;
+    display: flex;
+    align-items: center;
+}
